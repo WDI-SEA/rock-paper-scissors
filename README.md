@@ -30,7 +30,7 @@ rockPaperScissors(computersMove, usersMove);
 Want to upgrade your mini rock paper scissors game? Consider the following!
 
 1. Try to make [rock, paper, scissors, lizard, spock](http://bigbangtheory.wikia.com/wiki/Rock_Paper_Scissors_Lizard_Spock)
-2. Instead of hardcoding the user input, let the user actually enter a choice in the console (if you're running it in `node`, try using [process.argv](https://nodejs.org/docs/latest/api/process.html#process_process_argv))
+2. Instead of hardcoding the user input, let the user actually enter a choice in the console (check out [this repl.it](https://repl.it/@tmdarneille/prompt#index.js) for an example of catching user input!)
 
 
 ---
